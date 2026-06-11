@@ -2,6 +2,9 @@
 
 A Machine Learning-powered web dashboard that analyzes real-time GitHub metrics to predict whether a repository is actively maintained or inactive.
 
+🔗 **Live Demo (MVP):** 
+ https://gowthamvanjimuthu-cyber.github.io/github-repo-health-predictor/
+ 
 ## 🎯 Project Goal
 To help developers and decision-makers instantly gauge the vitality and maintenance status of any open-source GitHub project using data-driven insights.
 
